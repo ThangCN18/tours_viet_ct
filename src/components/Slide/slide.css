@@ -1,0 +1,16 @@
+
+.slide-root{
+    height: 100vh;
+}
+
+.btn-slide{
+    width: 100px;
+    height: 40px;
+    color: black;
+    background: none;
+}
+
+.btn-slide:hover{
+    background: rgb(29, 60, 21);
+    color: aliceblue;
+}
